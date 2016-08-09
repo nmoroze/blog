@@ -15,10 +15,10 @@ I started off with a huge denim jacket from a local thrift store and a pair of s
 First came removing the decidedly not-so-metal parts of the jacket: the colorful fleece liner on the inside, and the rope clasps on the outside. Next came the hood and sleeves, making this into a stylish vest that can be worn over your favorite black t-shirt. It's not as noticeable here, but I also had to cut off a good portion of the bottom of the jacket to make the length a little more reasonable. 
 
 <div class="row" markdown="1">
-![Jacket to begin with](/images/battle_jacket/initial_jacket.jpg){:class="img-responsive col-md-3"}
-![First the lining](/images/battle_jacket/removed_lining.jpg){:class="img-responsive col-md-3"}
-![Then the hooks](/images/battle_jacket/removed_hooks.jpg){:class="img-responsive col-md-3"}
-![Then the sleeves](/images/battle_jacket/removed_sleeves.jpg){:class="img-responsive col-md-3"}
+![Jacket to begin with]({{site.baseurl}}/images/battle_jacket/initial_jacket.jpg){:class="img-responsive col-md-3"}
+![First the lining]({{site.baseurl}}/images/battle_jacket/removed_lining.jpg){:class="img-responsive col-md-3"}
+![Then the hooks]({{site.baseurl}}/images/battle_jacket/removed_hooks.jpg){:class="img-responsive col-md-3"}
+![Then the sleeves]({{site.baseurl}}/images/battle_jacket/removed_sleeves.jpg){:class="img-responsive col-md-3"}
 </div>
 <br>
 And now I have a beautiful blank denim canvas! Next up, patches...
